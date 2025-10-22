@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Naples Federico II, Dept. of Agricultural Sciences</a><br>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Agricultural Sciences</p>
+    <p>University of Naples Federico II</p>
+    <p>Piazza Carlo di Borbone, 1 – 80055 Portici (NA), Italy</p>
+    <p>giuliano.langella@unina.it</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Soil scientist and researcher in pedometrics and geospatial informatics.  
+Works on digital soil mapping, environmental data systems, and the development of decision tools for sustainable land use.  
+Builds custom electronics and PCBs for research and fun.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Giuliano Langella is Associate Professor in the field of Pedology (AGR/14) at the University of Naples Federico II. His research is focused on applying quantitative and digital methods to study soil-landscape interactions and to develop FAIR-aligned environmental information systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He actively contributes to European and national research projects addressing soil health, sustainable agriculture, and spatial decision support systems (S-DSS). He’s also obsessed with prototyping electronic systems based on Raspberry Pi, ESP32, and designing custom PCBs to support environmental monitoring networks.
+
+When he’s not calibrating models or debugging sensor firmware, he enjoys woodworking and spending unreasonable time optimizing Linux installs that no one asked for.
