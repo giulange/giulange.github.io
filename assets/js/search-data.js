@@ -434,46 +434,51 @@ ninja.data = [{
           description: "Interoperable cyber-physical system for agro-meteorological data management.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/01_AgriMetSupport/";
-            },},{id: "projects-agrometiot",
-          title: 'AgroMetIoT',
+            },},{id: "projects-agrimetiot",
+          title: 'AgriMetIoT',
           description: "DIY weather stations with ESP32 and Raspberry Pi for agricultural microclimates.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/02_AgroMetIoT/";
+              window.location.href = "/projects/02_AgriMetIoT/";
+            },},{id: "projects-agritech",
+          title: 'Agritech',
+          description: "Italian national programme for digital and sustainable agriculture.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/03_Agritech/";
+            },},{id: "projects-landsupport",
+          title: 'LandSupport',
+          description: "H2020 project for sustainable agriculture and planning with DSS tools.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/04_LandSupport/";
             },},{id: "projects-landsupport-extended",
           title: 'LandSupport Extended',
           description: "Extension of the H2020 LandSupport project with new features and pilot sites.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/04_LandSupport-Extended/";
+              window.location.href = "/projects/05_LandSupport-Extended/";
             },},{id: "projects-soils4med",
           title: 'SOILS4MED',
           description: "PRIMA project for integrated soil health monitoring in the Mediterranean.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/05_SOILS4MED/";
+              window.location.href = "/projects/06_SOILS4MED/";
             },},{id: "projects-benchmarks",
           title: 'BENCHMARKS',
           description: "Horizon Europe project validating soil health indicators in Living Labs.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/06_BENCHMARKS/";
-            },},{id: "projects-fair-ease",
-          title: 'FAIR-EASE',
-          description: "Horizon Europe for FAIR digital services in environmental data.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/07_FAIR-EASE/";
+              window.location.href = "/projects/07_BENCHMARKS/";
             },},{id: "projects-geosciences-ir",
           title: 'GeoSciences-IR',
           description: "National research infrastructure for land observation and modeling.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/08_GeoSciences-IR/";
-            },},{id: "projects-agritech",
-          title: 'Agritech',
-          description: "Italian national programme for digital and sustainable agriculture.",
+            },},{id: "projects-fair-ease",
+          title: 'FAIR-EASE',
+          description: "Horizon Europe for FAIR digital services in environmental data.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/09_Agritech/";
-            },},{id: "projects-landsupport",
-          title: 'LandSupport',
-          description: "H2020 project for sustainable agriculture and planning with DSS tools.",
+              window.location.href = "/projects/09_FAIR-EASE/";
+            },},{id: "projects-soilconsweb",
+          title: 'SoilConsWeb',
+          description: "LIFE+ project for soil conservation and landscape management through a Web-based Spatial Decision Support System.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_LandSupport/";
+              window.location.href = "/projects/15_SoilConsWeb/";
             },},{
         id: 'social-email',
         title: 'email',
