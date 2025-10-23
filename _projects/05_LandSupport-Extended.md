@@ -21,6 +21,6 @@ Project coordinator.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/landsupport_extended.jpg" title="New pilot implementation" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/projects/landsupport-extended.jpg" title="New pilot implementation" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
