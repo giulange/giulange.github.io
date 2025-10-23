@@ -3,7 +3,7 @@ layout: page
 title: LandSupport
 description: H2020 project for sustainable agriculture and planning with DSS tools.
 img: assets/img/projects/landsupport.jpg
-importance: 3
+importance: 4
 category: work
 related_publications: true
 ---
@@ -18,7 +18,8 @@ Horizon 2020
 A free, open, geospatial decision support system (DSS) for sustainable agriculture, spatial planning, and environmental protection.
 
 **Role**  
-Project coordinator.
+Platform coordinator.<br>
+Coordinator of the implementation of the Geospatial Cyber-Infrastructure (GCI) and Smart Decision Support System (S-DSS) platform.
 
 **Specific activities**  
 - Coordination of consortium and project activities.  
@@ -33,3 +34,13 @@ DSS, GCI, soil, sustainable agriculture, digitization.
     {% include figure.liquid path="assets/img/projects/landsupport.jpg" title="LandSupport platform screenshot" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+<br><br>
+
+<!-- {% cite Bancheri2024WebBestPracticesTool %} -->
+<!-- {% cite Terribile2024LandSupportVision %} -->
+<!-- {% cite Manna2024GeospatialLandDegradation %} -->
+<!-- {% cite Mileti2024BiodiversityDSS %} -->
+<!-- {% cite Baumann2024DatacubesDSS %} -->
+<!-- {% cite Bancheri2023NitrateFateTool %} -->
+<!-- {% cite Bancheri2022PesticideFateTool %} -->
+<!-- {% cite Mileti2022GeospatialEcotourism %} -->

@@ -3,7 +3,7 @@ layout: page
 title: FAIR-EASE
 description: Horizon Europe for FAIR digital services in environmental data.
 img: assets/img/projects/fair-ease.jpg
-importance: 7
+importance: 9
 category: work
 related_publications: false
 ---

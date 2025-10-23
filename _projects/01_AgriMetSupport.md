@@ -12,7 +12,7 @@ related_publications: true
 AgriMetSupport is an interoperable, modular Cyber-Physical System (CPS) designed to manage sensor networks, weather stations, and agrometeorological data across heterogeneous territories. The system supports advanced risk management and territorial planning through standardized and geospatially integrated workflows.
 
 **Role**  
-Technical and scientific lead.
+Creator, technical and scientific lead.
 
 **Specific activities**  
 - Design and implementation of the data architecture

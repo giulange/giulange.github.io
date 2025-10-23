@@ -3,7 +3,7 @@ layout: page
 title: BENCHMARKS
 description: Horizon Europe project validating soil health indicators in Living Labs.
 img: assets/img/projects/benchmarks.jpg
-importance: 6
+importance: 7
 category: work
 related_publications: false
 ---

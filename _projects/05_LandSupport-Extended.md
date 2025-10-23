@@ -2,8 +2,8 @@
 layout: page
 title: LandSupport Extended
 description: Extension of the H2020 LandSupport project with new features and pilot sites.
-img: assets/img/projects/landsupport_extended.jpg
-importance: 4
+img: assets/img/projects/landsupport-extended.jpg
+importance: 5
 category: work
 related_publications: true
 ---

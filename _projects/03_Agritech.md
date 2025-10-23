@@ -3,7 +3,7 @@ layout: page
 title: Agritech
 description: Italian national programme for digital and sustainable agriculture.
 img: assets/img/projects/agritech.jpg
-importance: 9
+importance: 3
 category: work
 related_publications: false
 ---

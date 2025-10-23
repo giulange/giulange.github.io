@@ -3,7 +3,7 @@ layout: page
 title: SOILS4MED
 description: PRIMA project for integrated soil health monitoring in the Mediterranean.
 img: assets/img/projects/soils4med.jpg
-importance: 5
+importance: 6
 category: work
 related_publications: false
 ---
