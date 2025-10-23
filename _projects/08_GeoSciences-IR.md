@@ -14,9 +14,10 @@ Land observation and modeling through multi-scale geospatial data and decision s
 **Role**  
 Leader of Action 5.2.
 
-**Specific activities**  
-- Development of a multi-scale geospatial data catalog.  
-- Design of environmental indicators.  
+**Specific activities**
+
+- Development of a multi-scale geospatial data catalog.
+- Design of environmental indicators.
 - Regional use cases derived from LandSupport.
 
 <div class="row">

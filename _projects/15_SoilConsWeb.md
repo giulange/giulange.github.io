@@ -16,13 +16,13 @@ LIFE+ (LIFE08 ENV/IT/000408)
 
 **General description**  
 The SOILCONS-WEB project aimed to develop, test, and implement an innovative Spatial Decision Support System (S-DSS) focused on soil and landscape conservation.  
-The DSS was designed to assist land managers and decision-makers in preserving soil quality, improving landscape management, and facilitating the implementation of complex EU environmental directives, regulations, and national planning frameworks.  
+The DSS was designed to assist land managers and decision-makers in preserving soil quality, improving landscape management, and facilitating the implementation of complex EU environmental directives, regulations, and national planning frameworks.
 
 The system integrates high-quality spatial data layers related to soils and landscapes and is entirely web-based (Web Spatial Decision Supporting System, WS-DSS).  
-Through its online interface, the DSS provides users — including public authorities, private stakeholders, and research institutions — with access to analyses, reports, and thematic maps on agriculture, forestry, and environmental management.  
+Through its online interface, the DSS provides users — including public authorities, private stakeholders, and research institutions — with access to analyses, reports, and thematic maps on agriculture, forestry, and environmental management.
 
 Initially developed and tested over a 20,000-hectare pilot area in Southern Italy (Valle Telesina, Benevento, Campania region), the system was later extended to four additional European regions.  
-SOILCONS-WEB promoted a participatory approach by combining traditional *top-down* decision mechanisms with *bottom-up* contributions from local stakeholders, thus enhancing transparency and collaboration in environmental governance.
+SOILCONS-WEB promoted a participatory approach by combining traditional _top-down_ decision mechanisms with _bottom-up_ contributions from local stakeholders, thus enhancing transparency and collaboration in environmental governance.
 
 **Sector**  
 Desertification, land degradation, and drought.

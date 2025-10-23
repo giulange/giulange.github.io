@@ -14,8 +14,9 @@ European federation of FAIR services for environmental, marine, atmospheric, and
 **Role**  
 Lead of Pilot 5.2 on the Earth Critical Zone.
 
-**Specific activities**  
-- Coordination of pilot activities.  
+**Specific activities**
+
+- Coordination of pilot activities.
 - Interoperability and integration of FAIR data and services.
 
 <div class="row">

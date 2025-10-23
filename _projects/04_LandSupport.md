@@ -21,9 +21,10 @@ A free, open, geospatial decision support system (DSS) for sustainable agricultu
 Platform coordinator.<br>
 Coordinator of the implementation of the Geospatial Cyber-Infrastructure (GCI) and Smart Decision Support System (S-DSS) platform.
 
-**Specific activities**  
-- Coordination of consortium and project activities.  
-- Supervision of the development of 100 DSS tools.  
+**Specific activities**
+
+- Coordination of consortium and project activities.
+- Supervision of the development of 100 DSS tools.
 - Collaboration with public bodies and pilot testing in four countries.
 
 **Keywords**  

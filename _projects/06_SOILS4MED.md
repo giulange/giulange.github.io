@@ -14,8 +14,9 @@ Development of harmonized systems for monitoring soil health in Mediterranean ag
 **Role**  
 Work package or task leader.
 
-**Specific activities**  
-- Design of harmonized soil indicators.  
+**Specific activities**
+
+- Design of harmonized soil indicators.
 - Technical and scientific support in data management.
 
 <div class="row">

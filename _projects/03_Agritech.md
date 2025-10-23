@@ -14,14 +14,15 @@ National programme for digital innovation in agriculture, organised in a central
 **Role**  
 Leader of WP2.3 in Spoke 2 (“Crop Health”) at the University of Naples Federico II.
 
-**Specific activities**  
-- Development of the geospatial cyber-infrastructure (GCI) platform.  
-- Participation in the inter-spoke coordination table.  
+**Specific activities**
+
+- Development of the geospatial cyber-infrastructure (GCI) platform.
+- Participation in the inter-spoke coordination table.
 - Creation of an advanced DSS for irrigation, fertilisation, and crop protection.
 
 **Solution proposed**
-- [Crop Health: a multidisciplinary system approach to reduce the use of agrochemicals](https://repo.agritechcenter.it/spoke-2/entry/5188/?_gl=1*rkgb4p*_ga*NTE4MjUyNDk4LjE3NTkzMDg1MTA.*_ga_WQWZ42XXPJ*czE3NjEyMTEyMzQkbzIkZzAkdDE3NjEyMTEyMzQkajYwJGwwJGgw)
 
+- [Crop Health: a multidisciplinary system approach to reduce the use of agrochemicals](https://repo.agritechcenter.it/spoke-2/entry/5188/?_gl=1*rkgb4p*_ga*NTE4MjUyNDk4LjE3NTkzMDg1MTA.*_ga_WQWZ42XXPJ*czE3NjEyMTEyMzQkbzIkZzAkdDE3NjEyMTEyMzQkajYwJGwwJGgw)
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

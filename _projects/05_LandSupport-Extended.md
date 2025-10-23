@@ -14,9 +14,10 @@ An extended version of the LandSupport project focused on scalable DSS for agric
 **Role**  
 Project coordinator.
 
-**Specific activities**  
-- Technical and scientific coordination.  
-- Development of scalable DSS.  
+**Specific activities**
+
+- Technical and scientific coordination.
+- Development of scalable DSS.
 - Testing in four diverse geographical contexts (Italy, Hungary, Austria, Tunisia).
 
 <div class="row">

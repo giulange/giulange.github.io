@@ -14,8 +14,9 @@ related_publications: false
 **Role**  
 Scientific partner.
 
-**Specific activities**  
-- Support in the methodological monitoring framework.  
+**Specific activities**
+
+- Support in the methodological monitoring framework.
 - Analysis of biophysical and remote sensing indicators.
 
 <div class="row">

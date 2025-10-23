@@ -39,7 +39,7 @@
         "network": "LinkedIn",
         "username": "giuliano-langella-unina",
         "url": "https://www.linkedin.com/in/giuliano-langella-unina"
-      }    
+      }
     ]
   },
   "work": [
@@ -146,50 +146,25 @@
       "name": "Geospatial Data Science",
       "level": "Expert",
       "icon": "fa-solid fa-globe",
-      "keywords": [
-        "Digital Soil Mapping",
-        "Geostatistics",
-        "Variogram Modeling",
-        "Kriging",
-        "Datacubes"
-      ]
+      "keywords": ["Digital Soil Mapping", "Geostatistics", "Variogram Modeling", "Kriging", "Datacubes"]
     },
     {
       "name": "Decision Support Systems",
       "level": "Expert",
       "icon": "fa-solid fa-network-wired",
-      "keywords": [
-        "WeatherProg",
-        "LandSupport",
-        "Soil Monitor",
-        "FAIR-EASE",
-        "Agritech DSS"
-      ]
+      "keywords": ["WeatherProg", "LandSupport", "Soil Monitor", "FAIR-EASE", "Agritech DSS"]
     },
     {
       "name": "Programming & Automation",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "R",
-        "MATLAB",
-        "C/C++",
-        "Docker",
-        "Git",
-        "CUDA"
-      ]
+      "keywords": ["Python", "R", "MATLAB", "C/C++", "Docker", "Git", "CUDA"]
     },
     {
       "name": "Embedded Systems",
       "level": "Intermediate",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Raspberry-pi & ESP32",
-        "IoT & sensors",
-        "Smart Devices",
-        "3D Printing"
-      ]
+      "keywords": ["Raspberry-pi & ESP32", "IoT & sensors", "Smart Devices", "3D Printing"]
     }
   ],
   "languages": [
@@ -208,40 +183,22 @@
     {
       "name": "Environmental Informatics",
       "icon": "fa-solid fa-seedling",
-      "keywords": [
-        "Digital Soil Mapping",
-        "Pedometrics",
-        "Land Take & Soil Sealing",
-        "(Agro-)Meteo data management & modeling"
-      ]
+      "keywords": ["Digital Soil Mapping", "Pedometrics", "Land Take & Soil Sealing", "(Agro-)Meteo data management & modeling"]
     },
     {
       "name": "Open Science & FAIR Data",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "Data Cubes",
-        "SensorThings API",
-        "Geospatial Cyberinfrastructure"
-      ]
+      "keywords": ["Data Cubes", "SensorThings API", "Geospatial Cyberinfrastructure"]
     },
     {
       "name": "Electronics & IoT",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Raspberry-pi & ESP32",
-        "(DIY) Smart sensor station",
-        "Domotics"
-      ]
+      "keywords": ["Raspberry-pi & ESP32", "(DIY) Smart sensor station", "Domotics"]
     },
     {
       "name": "DIY & Woodworking",
       "icon": "fa-solid fa-hammer",
-      "keywords": [
-        "3D Printing",
-        "Maker Projects",
-        "Woodworking",
-        "Home automation"
-      ]
+      "keywords": ["3D Printing", "Maker Projects", "Woodworking", "Home automation"]
     }
   ],
   "projects": [

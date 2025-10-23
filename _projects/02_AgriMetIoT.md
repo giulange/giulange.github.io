@@ -14,9 +14,10 @@ Development of low-cost, open-source weather stations, compatible with FAIR data
 **Role**  
 Creator and lead developer.
 
-**Specific activities**  
-- Electronic prototyping.  
-- Custom PCB production.  
+**Specific activities**
+
+- Electronic prototyping.
+- Custom PCB production.
 - Integration with SensorThings API platforms and GCI.
 
 <div class="row">
