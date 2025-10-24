@@ -127,6 +127,41 @@
   ],
   "publications": [
     {
+      "name": "AgriMetSupport: A Cyber-Physical System for interoperable agro-meteorological data processing and integration",
+      "publisher": "Computers and Electronics in Agriculture",
+      "releaseDate": "2025-02-01",
+      "url": "https://doi.org/10.1016/j.compag.2025.110719",
+      "summary": "AgriMetSupport introduces a modular cyber-physical system for managing, processing, and integrating heterogeneous agro-meteorological data in an interoperable framework."
+    },
+    {
+      "name": "A smart soil framework law proposal from Italy: Bridging the gap between policy and implementation",
+      "publisher": "Soil Security",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1016/j.soisec.2025.100190",
+      "summary": "The paper proposes a national smart soil law framework that connects soil policy with digital infrastructures for sustainable land management."
+    },
+    {
+      "name": "Datacubes as enabler for advanced decision support systems in land management",
+      "publisher": "Land Degradation & Development",
+      "releaseDate": "2024-12-01",
+      "url": "https://doi.org/10.1002/ldr.5153",
+      "summary": "This work highlights how datacube technologies can serve as a foundation for next-generation spatial decision support systems in land and environmental management."
+    },
+    {
+      "name": "Integrated, multiscale forensic soil science applied to an unsolved murder case in Italy",
+      "publisher": "European Journal of Soil Science",
+      "releaseDate": "2024-09-01",
+      "url": "https://doi.org/10.1111/ejss.70019",
+      "summary": "An application of forensic soil science integrating morphological, chemical, and geospatial analyses to support an Italian criminal investigation."
+    },
+    {
+      "name": "ReFuse: Generating Imperviousness Maps from Multi-Spectral Sentinel-2 Satellite Imagery",
+      "publisher": "Future Internet",
+      "releaseDate": "2022-10-01",
+      "url": "https://doi.org/10.3390/fi14100278",
+      "summary": "ReFuse presents a deep learning approach for generating high-accuracy imperviousness maps from Sentinel-2 imagery, enabling frequent and scalable urban monitoring."
+    },
+    {
       "name": "Soil Monitor: an internet platform to challenge soil sealing in Italy",
       "publisher": "Land Degradation & Development",
       "releaseDate": "2020-12-01",
@@ -134,11 +169,25 @@
       "summary": "The Soil Monitor platform is presented as a national-scale tool for monitoring and accounting soil sealing using high-resolution data and cloud infrastructure."
     },
     {
-      "name": "A full integrated system for agroclimatic and pest monitoring at farm and landscape scales in Campania Region",
-      "publisher": "IOP Conference Series: Earth and Environmental Science",
-      "releaseDate": "2019-01-01",
-      "url": "https://doi.org/10.1088/1755-1315/275/1/012007",
-      "summary": "Describes the design and implementation of an integrated agrometeorological and pest risk system."
+      "name": "Spatial analysis of clay content in soils using neurocomputing and pedological support: a case study of Valle Telesina (South Italy)",
+      "publisher": "Environmental Earth Sciences",
+      "releaseDate": "2016-10-01",
+      "url": "https://doi.org/10.1007/s12665-016-6163-7",
+      "summary": "This study demonstrates the use of ensemble artificial neural networks for predicting soil clay content, improving spatial accuracy through pedological integration."
+    },
+    {
+      "name": "A physically oriented approach to analysis and mapping of terroirs",
+      "publisher": "Geoderma",
+      "releaseDate": "2011-09-01",
+      "url": "https://doi.org/10.1016/j.geoderma.2011.08.004",
+      "summary": "A physically based framework for characterizing and mapping viticultural terroirs, integrating soil and hydrological properties with environmental data."
+    },
+    {
+      "name": "High-resolution space–time rainfall analysis using integrated ANN inference systems",
+      "publisher": "Journal of Hydrology",
+      "releaseDate": "2010-05-01",
+      "url": "https://doi.org/10.1016/j.jhydrol.2010.04.027",
+      "summary": "A neural-network-based framework for high-resolution rainfall reconstruction using hybrid inference and geostatistical filtering methods."
     }
   ],
   "skills": [
@@ -203,9 +252,36 @@
   ],
   "projects": [
     {
+      "name": "Soils4Med",
+      "summary": "PRIMA project to monitor and preserve Mediterranean soil health through DSS deployment and stakeholder engagement.",
+      "highlights": ["Task leader for operational DSS testing", "Adaptation of LandSupport tools in Mediterranean case studies"],
+      "startDate": "2023-01-01",
+      "endDate": "2026-10-31",
+      "url": "https://soils4med.eu"
+    },
+    {
+      "name": "Agritech",
+      "summary": "National Research Centre for Agricultural Technologies. Promotes precision agriculture and sustainable crop protection.",
+      "highlights": ["Leader of WP2.3", "Coordination of 11 partners", "Development of geospatial DSS for IPM and fertilization"],
+      "startDate": "2022-01-01",
+      "endDate": "2026-02-28",
+      "url": "https://agritechcenter.it"
+    },
+    {
+      "name": "GeoSciences IR",
+      "summary": "National infrastructure supporting geosciences services and regional policy tools.",
+      "highlights": ["Leader of UO UNINA06 (Task 5.2B)", "Involved in adapting LandSupport DSS for Italian regional use cases"],
+      "startDate": "2022-01-01",
+      "endDate": "2026-03-31",
+      "url": "https://geosciences-ir.it"
+    },
+    {
       "name": "LANDSUPPORT",
       "summary": "Development of a web-based, open access geoSpatial Decision Support System (SDSS) for sustainable land use policy in Europe.",
-      "highlights": ["Lead architect of the geospatial cyberinfrastructure", "Developer of WeatherProg and land take pipeline"],
+      "highlights": [
+        "Lead architect of the geospatial cyberinfrastructure",
+        "Developer of the land take pipelines using the CUDA-C framework for high performing geospatial computing."
+      ],
       "startDate": "2018-01-01",
       "endDate": "2022-12-31",
       "url": "https://www.landsupport.eu"
@@ -215,32 +291,8 @@
       "summary": "Integration of Earth system data services for the European Open Science Cloud (EOSC).",
       "highlights": ["Leader of Pilot 5.1.2 (Earth Critical Zone)", "Customization of Trends.Earth for soil degradation assessment"],
       "startDate": "2022-01-01",
-      "endDate": "2025-12-31",
+      "endDate": "2025-08-31",
       "url": "https://fairease.eu"
-    },
-    {
-      "name": "Agritech",
-      "summary": "National Research Centre for Agricultural Technologies. Promotes precision agriculture and sustainable crop protection.",
-      "highlights": ["Leader of WP2.3", "Coordination of 11 partners", "Development of geospatial DSS for IPM and fertilization"],
-      "startDate": "2022-01-01",
-      "endDate": "2025-12-31",
-      "url": "https://agritechcenter.it"
-    },
-    {
-      "name": "Soils4Med",
-      "summary": "PRIMA project to monitor and preserve Mediterranean soil health through DSS deployment and stakeholder engagement.",
-      "highlights": ["Task leader for operational DSS testing", "Adaptation of LandSupport tools in Mediterranean case studies"],
-      "startDate": "2023-01-01",
-      "endDate": "2026-12-31",
-      "url": "https://soils4med.eu"
-    },
-    {
-      "name": "GeoSciences IR",
-      "summary": "National infrastructure supporting geosciences services and regional policy tools.",
-      "highlights": ["Leader of UO UNINA06 (Task 5.2B)", "Involved in adapting LandSupport DSS for Italian regional use cases"],
-      "startDate": "2022-01-01",
-      "endDate": "2025-12-31",
-      "url": "https://geosciences-ir.it"
     }
   ]
 }
