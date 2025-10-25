@@ -428,7 +428,7 @@ ninja.data = [{
               window.location.href = "/projects/05_LandSupport-Extended/";
             },},{id: "projects-soils4med",
           title: 'SOILS4MED',
-          description: "PRIMA project for integrated soil health monitoring in the Mediterranean.",
+          description: "PRIMA project for the development of integrated soil health monitoring systems across Mediterranean agroecosystems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/06_SOILS4MED/";
             },},{id: "projects-benchmarks",
