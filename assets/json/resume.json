@@ -193,27 +193,27 @@
   "skills": [
     {
       "name": "Geospatial Data Science",
-      "level": "Expert",
+      "level": "Advanced",
       "icon": "fa-solid fa-globe",
-      "keywords": ["Digital Soil Mapping", "Geostatistics", "Variogram Modeling", "Kriging", "Datacubes"]
+      "keywords": ["Digital (Soil) Mapping", "Pedometrics", "Artificial Intelligence", "Geostatistics", "Datacubes"]
     },
     {
       "name": "Decision Support Systems",
-      "level": "Expert",
+      "level": "Advanced",
       "icon": "fa-solid fa-network-wired",
-      "keywords": ["WeatherProg", "LandSupport", "Soil Monitor", "FAIR-EASE", "Agritech DSS"]
+      "keywords": ["AgriMetSupport", "LandSupport DSS", "Soil Monitor", "LandSupport-Regions", "Agritech DSS", "SoilConsWeb"]
     },
     {
       "name": "Programming & Automation",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "R", "MATLAB", "C/C++", "Docker", "Git", "CUDA"]
+      "keywords": ["Python", "R", "MATLAB", "C/C++", "CUDA", "Docker", "Git"]
     },
     {
       "name": "Embedded Systems",
       "level": "Intermediate",
       "icon": "fa-solid fa-microchip",
-      "keywords": ["Raspberry-pi & ESP32", "IoT & sensors", "Smart Devices", "3D Printing"]
+      "keywords": ["Raspberry-pi (single-board computers)", "ESP32 (micro-controllers)", "IoT & sensors", "Smart Devices", "PCB prototyping", "3D Printing"]
     }
   ],
   "languages": [

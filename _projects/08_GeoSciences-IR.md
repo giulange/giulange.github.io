@@ -16,8 +16,8 @@ Leader of Action 5.2.
 
 **Specific activities**
 
-- Development of a multi-scale geospatial data catalog.
-- Design of environmental indicators.
+- Development of a multi-scale geospatial data catalog for soil sealing.
+- Design and implementation of soil sealing indicators within the LandSupport-Regions platform.
 - Regional use cases derived from LandSupport.
 
 <div class="row">

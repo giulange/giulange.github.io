@@ -5,7 +5,7 @@ description: Extension of the H2020 LandSupport project with new features and pi
 img: assets/img/projects/landsupport-extended.jpg
 importance: 5
 category: work
-related_publications: true
+related_publications: false
 ---
 
 **General description**  
