@@ -4,7 +4,7 @@ permalink: /lab/
 title: lab
 description: The <b>Pedo-informatics Lab</b> — a distributed research facility integrating computing infrastructure, environmental sensing devices, and electronic prototyping for soil and agro-environmental research.
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
 ## 🧪 Pedo-informatics Lab
@@ -19,20 +19,30 @@ The name reflects a trajectory: from _pedometrics_ — the quantitative study of
 
 ### Lab-owned resources
 
-**Main rack** — a DELL rack cabinet hosting **5 servers** dedicated to geospatial processing, modelling, and data services.
+**Main rack** — a DELL rack cabinet hosting **5 servers** dedicated to geospatial processing, modelling, and data services:
 
-<!-- TODO: confirm real specs per server -->
+- **DELL PowerEdge R510** — rack server (2012) <!-- TODO: CPU/RAM/storage from DELL quote -->
+- **2 × DELL PowerEdge T620** — tower servers (2012) <!-- TODO: CPU/RAM/storage from DELL quote -->
+- **2 × E4 compute servers** — added in 2018 <!-- TODO: specs to be recovered -->
 
-- _Server specs to be detailed — CPU, RAM, storage per node (placeholder)_
+The rack is completed by dual monitoring consoles and a dedicated UPS.
 
-**Departmental data center (CED) — cabinet III** — two lab-owned servers hosted in the departmental CED:
+**GERMINA — cabinet III** — two lab-owned nodes (E4 Computer Engineering, 2023) installed in a dedicated 42U rack with Eaton 5000i UPS and managed PDUs:
 
-- **Storage server** — _specs to be detailed (placeholder)_
-- **Computing server** — _specs to be detailed (placeholder)_
+- **GPU computing node (E4 TF420)** — 2 × Intel Xeon Gold 6342 (48 cores / 96 threads), 1 TB DDR4-3200 ECC RAM, NVIDIA A100 80 GB Tensor Core GPU, ~92 TB SAS SSD (6 × Kioxia PM6-R 15.3 TB, hardware RAID), 2 × 10 GbE + Mellanox ConnectX-5 25 GbE
+- **Storage node (E4 RF470)** — 60-bay 4U chassis, 2 × Intel Xeon Silver 4309Y (16 cores / 32 threads), 128 GB DDR4-3200 ECC RAM, **576 TB raw** (32 × 18 TB SAS, RAID 6), NVMe backplane, 2 × 10 GbE + Mellanox ConnectX-5 25 GbE
+
+The GPU node runs **GAIA**, a cloud-native AI stack (Kubernetes with GPU operator, JupyterHub-based multi-user computing, DASK, RAPIDS, TensorFlow, PyTorch) supporting machine-learning workflows for digital soil mapping and geospatial modelling.
 
 ### Shared infrastructure
 
-The lab operates within the **departmental data center (CED)**, an infrastructure representing an investment of approximately **€1M**, for which I serve as **co-responsible** together with two colleagues. This role covers infrastructure design, operations, and evolution — meaning the lab does not merely _use_ shared computing resources, it helps **run** them.
+<div class="row justify-content-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/lab/germina.jpg" title="GERMINA — Centro di Supercalcolo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+The lab operates within **GERMINA**, the departmental supercomputing centre — an infrastructure representing an investment of approximately **€1M**, for which I serve as **co-responsible** together with two colleagues. This role covers infrastructure design, operations, and evolution — meaning the lab does not merely _use_ shared computing resources, it helps **run** them.
 
 ---
 

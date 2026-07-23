@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching activities and courses held by <b>Prof. Giuliano Langella</b>, Associate Professor of Pedology and Pedoinformatics at the University of Naples Federico II, and collaborator in advanced training programs at the University of Padua.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ### 🌱 Soil Geography and Evaluation
