@@ -38,13 +38,14 @@ The nodes run a **virtualization and containerization stack**: Proxmox-managed v
 
 ### Shared infrastructure
 
-<div class="row justify-content-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+<div class="row align-items-center">
+    <div class="col-sm-9" style="text-align: justify;">
+        <p>The lab operates within <strong>GERMINA</strong>, the departmental supercomputing centre — an infrastructure representing an investment of approximately <strong>€1M</strong>, for which I serve as <strong>responsible</strong>. This role covers infrastructure design, operations, and evolution — meaning the lab does not merely <em>use</em> shared computing resources, it helps <strong>run</strong> them.</p>
+    </div>
+    <div class="col-sm-3 mt-3 mt-sm-0">
         {% include figure.liquid path="assets/img/lab/germina.jpg" title="GERMINA — Centro di Supercalcolo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-The lab operates within **GERMINA**, the departmental supercomputing centre — an infrastructure representing an investment of approximately **€1M**, for which I serve as **co-responsible** together with two colleagues. This role covers infrastructure design, operations, and evolution — meaning the lab does not merely _use_ shared computing resources, it helps **run** them.
 
 ---
 

@@ -173,7 +173,12 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CLAUDE.md
+  - compose-down.sh
+  - compose-up.sh
   - CONTRIBUTING.md
+  - prettier-fix.sh
+  - README_GL.md
+  - requirements.txt
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
