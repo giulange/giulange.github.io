@@ -17,7 +17,7 @@ Scientific partner.
 **Specific activities**
 
 - Support in the methodological monitoring framework.
-- Analysis of biophysical and remote sensing indicators.
+- Analysis of landscape indicators.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

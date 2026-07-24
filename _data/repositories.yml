@@ -4,24 +4,24 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - giulange/LandSupport
+  # - giulange/LandSupport
   - giulange/ai_copertura_suolo
   - giulange/LDA-TE-FE
-  - giulange/LandSupportRegions
+  # - giulange/LandSupportRegions
   - giulange/landscape-metrics
-  - giulange/rstudio-classroom
-  - giulange/meteo-hub-cli
-  - giulange/ETL_WeatherProg
-  - giulange/agrimetsupport_cps
-  - giulange/PYDBAPI
-  - giulange/weatherprog
+  # - giulange/rstudio-classroom
+  # - giulange/meteo-hub-cli
+  # - giulange/ETL_WeatherProg
+  # - giulange/agrimetsupport_cps
+  # - giulange/PYDBAPI
+  # - giulange/weatherprog
   - giulange/plf-curricular-internship
   - giulange/master_unipd
-  - giulange/gdal-r-mcssa
+  # - giulange/gdal-r-mcssa
   - giulange/onedrive-custom
-  - giulange/TdF-optimization-ecobat
+  # - giulange/TdF-optimization-ecobat
   - giulange/imperviousness-segmentation
-  - giulange/plasmorossi
-  - giulange/pedological_cover_mapping
+  # - giulange/plasmorossi
+  # - giulange/pedological_cover_mapping
   - giulange/winterschoolECZ
   - giulange/gPRISM

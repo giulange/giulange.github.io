@@ -18,8 +18,8 @@ Horizon 2020
 A free, open, geospatial decision support system (DSS) for sustainable agriculture, spatial planning, and environmental protection.
 
 **Role**  
-Platform coordinator.<br>
-Coordinator of the implementation of the Geospatial Cyber-Infrastructure (GCI) and Smart Decision Support System (S-DSS) platform.
+Lead architect of the geospatial cyberinfrastructure.<br>
+Coordinator of the implementation of the Geospatial Cyber-Infrastructure (GCI) and Smart Decision Support System (S-DSS) platform. Developer of the land take pipelines using the CUDA-C framework for high performing geospatial computing.
 
 **Specific activities**
 

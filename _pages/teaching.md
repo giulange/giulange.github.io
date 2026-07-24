@@ -64,7 +64,7 @@ Students gain practical experience in **R programming**, building spatial models
 
 ---
 
-### 💻 PLF Internship
+### 💻 Precision Livestock Farming Internship
 
 **Master’s Degree in Precision Livestock Farming (PLF)** — University of Naples Federico II  
 **ECTS:** 1 | **Type:** Practical training and laboratory

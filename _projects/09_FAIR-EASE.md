@@ -16,7 +16,8 @@ Lead of Pilot 5.2 on the Earth Critical Zone.
 
 **Specific activities**
 
-- Coordination of pilot activities.
+- Coordination of the ECZ (Earth Critical Zone) pilot activities.
+- Development of a stand-alone land degradation assessment framework from the Trends.Earth QGIS plugin.
 - Interoperability and integration of FAIR data and services.
 
 <div class="row">

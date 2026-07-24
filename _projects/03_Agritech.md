@@ -8,11 +8,11 @@ category: work
 related_publications: false
 ---
 
-**General description**  
+**General description**
 National programme for digital innovation in agriculture, organised in a central Hub and 9 thematic Spokes.
 
-**Role**  
-Leader of WP2.3 in Spoke 2 (“Crop Health”) at the University of Naples Federico II.
+**Role**
+Leader of WP2.3 in Spoke 2 (“Crop Health”) at the University of Naples Federico II and coordinator of the GCI implementation.
 
 **Specific activities**
 
