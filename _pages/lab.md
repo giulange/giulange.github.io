@@ -34,7 +34,7 @@ Everything is housed in a 42U rack cabinet, completed by dual 27″ QHD monitori
 - **Storage node** — 60-bay 4U chassis, 2 × Intel Xeon Silver 4309Y (16 cores / 32 threads), 128 GB DDR4-3200 ECC RAM, **576 TB raw** (32 × 18 TB SAS, RAID 6), NVMe backplane, 2 × 10 GbE + dual-port 25 GbE
 - **Multi-GPU AI node (2026, procurement in progress — expected by end of year)** — 5U dual-socket system: 2 × AMD EPYC 9335 (**64 cores / 128 threads**), 768 GB DDR5-6400 ECC RAM, **6 × NVIDIA RTX PRO6000 96 GB** GDDR7 ECC GPUs (**576 GB total GPU memory**) interconnected via NVLink (900 GB/s per GPU), NVMe storage, 4 × 10 GbE + dual-port 25 GbE
 
-The GPU node runs a **cloud-native AI stack** (Kubernetes with GPU operator, JupyterHub-based multi-user computing, DASK, RAPIDS, TensorFlow, PyTorch) supporting machine-learning workflows for digital soil mapping and geospatial modelling.
+The nodes run a **virtualization and containerization stack**: Proxmox-managed virtual machines with flexible GPU passthrough, and a Docker layer for fine-grained containerized deployment. The distributed infrastructure presented here supports both the deployment of research platforms such as [LandSupport](/projects/04_LandSupport/) and [AgriMetSupport](/projects/01_AgriMetSupport/), and the provisioning of environments for the development and testing of HPC computations.
 
 ### Shared infrastructure
 
