@@ -39,11 +39,26 @@ The nodes run a **virtualization and containerization stack**: Proxmox-managed v
 ### Shared infrastructure
 
 <div class="row align-items-center">
-    <div class="col-sm-9" style="text-align: justify;">
+    <div class="col-sm-10" style="text-align: justify;">
         <p>The lab operates within <strong>GERMINA</strong>, the departmental supercomputing centre — an infrastructure representing an investment of approximately <strong>€1M</strong>, for which I serve as <strong>responsible</strong>. This role covers infrastructure design, operations, and evolution — meaning the lab does not merely <em>use</em> shared computing resources, it helps <strong>run</strong> them.</p>
     </div>
-    <div class="col-sm-3 mt-3 mt-sm-0">
+    <div class="col-sm-2 mt-3 mt-sm-0">
         {% include figure.liquid path="assets/img/lab/germina.jpg" title="GERMINA — Centro di Supercalcolo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+The centre is hosted in a dedicated, fully refurbished facility connected to the university backbone via optical fibre. It is built around **three rack cabinets with closed-loop air cooling**, deliberately oversized to allow expansion in the short/medium term, and protected by an external **50 kW UPS**, an integrated **fire-suppression system**, and doors with automatic emergency opening:
+
+- **Rack 1 — CPU partition**: 12 compute nodes with 128 cores each, totalling **1,536 cores**, orchestrated by the SLURM workload manager — for large-scale data analysis, advanced statistics, and parallel computing
+- **Rack 2 — GPU partition**: **8 × NVIDIA H200 GPUs** backed by a **1.2 PB** high-capacity storage system, virtualized and orchestrated via Proxmox — for predictive AI models, complex simulations, and the processing of drone and satellite imagery
+- **Rack 3 — hosted resources**: the cabinet hosting the lab-owned nodes described above
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/lab/germina_racks.jpg" title="The three closed-loop racks of GERMINA" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/lab/germina_rack_open.jpg" title="CPU compute nodes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
