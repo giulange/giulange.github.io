@@ -23,9 +23,10 @@ The name reflects a trajectory: from _pedometrics_ — the quantitative study of
 
 - **HPC node (2018)** — 7U octa-socket system: 8 × Intel Xeon Platinum 8153 (**128 cores / 256 threads**), 768 GB DDR4-2666 ECC RAM, 2 × NVIDIA Tesla P100 16 GB GPU accelerators, ~5.7 TB enterprise SSD + 48 TB SAS storage, SLURM workload manager, 4 × 10 GbE
 - **Storage server (2018)** — 4U 36-bay chassis: 2 × Intel Xeon E5-2620v4 (16 cores / 32 threads), 64 GB DDR4 ECC RAM, **220 TB raw** (22 × 10 TB SAS, hardware RAID), 4 × 10 GbE
-- **3 × servers (2012)** — one rack unit and two tower units for services, virtualization, and data management <!-- TODO: CPU/RAM/storage from 2012 quote (Dropbox not accessible) -->
+- **2 × GPU tower servers (2012)** — each with 2 × Intel Xeon E5-2640 (12 cores / 24 threads), 32 / 64 GB DDR3-1600 ECC RAM, hardware RAID; one equipped with a Quadro 6000 GPU for scientific visualization, the other with a Tesla C2075 GPU for computing — GPU-accelerated geocomputation in the lab dates back to 2012
+- **Rack server (2012)** — 2U 12-bay chassis, 2 × Intel Xeon E5607 (8 cores), 16 GB ECC RAM, ~13 TB near-line SAS + SSD, hardware RAID, redundant PSUs
 
-The rack is completed by dual monitoring consoles and a dedicated UPS.
+Everything is housed in a 42U rack cabinet, completed by dual 27″ QHD monitoring consoles and a dedicated 1.9 kW UPS.
 
 **GERMINA — cabinet III** — two lab-owned nodes (2023) installed in a dedicated 42U rack with a 5 kVA online double-conversion UPS and managed PDUs:
 
