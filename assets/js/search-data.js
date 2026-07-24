@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-lab",
+          title: "lab",
+          description: "The Pedo-informatics Lab — a distributed research facility integrating computing infrastructure, environmental sensing devices, and electronic prototyping for soil and agro-environmental research.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lab/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "A selection of GitHub repositories related to my research, teaching, and software development activities.",
