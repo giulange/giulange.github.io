@@ -21,11 +21,12 @@ The project addresses the European Soil Strategy for 2030 by promoting sustainab
 **Role**  
 Task co-leader.
 
-**Specific activities**  
-- Technical and scientific support for adapting the **LandSupport platform** to the Mediterranean partner countries involved in the project.  
-- Contribution to **geospatial modeling**, integrating soil, climate, and land management data through interoperable workflows.  
-- Contribution to the **definition and assessment of the soil health indicator**, ensuring methodological consistency and spatial applicability across regions.  
-- Design of harmonized soil indicators and data integration schemes.  
+**Specific activities**
+
+- Technical and scientific support for adapting the **LandSupport platform** to the Mediterranean partner countries involved in the project.
+- Contribution to **geospatial modeling**, integrating soil, climate, and land management data through interoperable workflows.
+- Contribution to the **definition and assessment of the soil health indicator**, ensuring methodological consistency and spatial applicability across regions.
+- Design of harmonized soil indicators and data integration schemes.
 - Support in technical data management and validation of soil-related datasets in the integration process within the LandSupport platform.
 
 <div class="row">
