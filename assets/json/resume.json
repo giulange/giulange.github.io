@@ -213,7 +213,14 @@
       "name": "Embedded Systems",
       "level": "Intermediate",
       "icon": "fa-solid fa-microchip",
-      "keywords": ["Raspberry-pi (single-board computers)", "ESP32 (micro-controllers)", "IoT & sensors", "Smart Devices", "PCB prototyping", "3D Printing"]
+      "keywords": [
+        "Raspberry-pi (single-board computers)",
+        "ESP32 (micro-controllers)",
+        "IoT & sensors",
+        "Smart Devices",
+        "PCB prototyping",
+        "3D Printing"
+      ]
     }
   ],
   "languages": [
