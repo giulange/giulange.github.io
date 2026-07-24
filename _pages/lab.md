@@ -19,20 +19,20 @@ The name reflects a trajectory: from _pedometrics_ — the quantitative study of
 
 ### Lab-owned resources
 
-**Main rack** — a DELL rack cabinet hosting **5 servers** dedicated to geospatial processing, modelling, and data services:
+**Main rack** — a rack cabinet hosting **5 servers** dedicated to geospatial processing, modelling, and data services:
 
-- **DELL PowerEdge R510** — rack server (2012) <!-- TODO: CPU/RAM/storage from DELL quote -->
-- **2 × DELL PowerEdge T620** — tower servers (2012) <!-- TODO: CPU/RAM/storage from DELL quote -->
-- **2 × E4 compute servers** — added in 2018 <!-- TODO: specs to be recovered -->
+- **HPC node (2018)** — 7U octa-socket system: 8 × Intel Xeon Platinum 8153 (**128 cores / 256 threads**), 768 GB DDR4-2666 ECC RAM, 2 × NVIDIA Tesla P100 16 GB GPU accelerators, ~5.7 TB enterprise SSD + 48 TB SAS storage, SLURM workload manager, 4 × 10 GbE
+- **Storage server (2018)** — 4U 36-bay chassis: 2 × Intel Xeon E5-2620v4 (16 cores / 32 threads), 64 GB DDR4 ECC RAM, **220 TB raw** (22 × 10 TB SAS, hardware RAID), 4 × 10 GbE
+- **3 × servers (2012)** — one rack unit and two tower units for services, virtualization, and data management <!-- TODO: CPU/RAM/storage from 2012 quote (Dropbox not accessible) -->
 
 The rack is completed by dual monitoring consoles and a dedicated UPS.
 
-**GERMINA — cabinet III** — two lab-owned nodes (E4 Computer Engineering, 2023) installed in a dedicated 42U rack with Eaton 5000i UPS and managed PDUs:
+**GERMINA — cabinet III** — two lab-owned nodes (2023) installed in a dedicated 42U rack with a 5 kVA online double-conversion UPS and managed PDUs:
 
-- **GPU computing node (E4 TF420)** — 2 × Intel Xeon Gold 6342 (48 cores / 96 threads), 1 TB DDR4-3200 ECC RAM, NVIDIA A100 80 GB Tensor Core GPU, ~92 TB SAS SSD (6 × Kioxia PM6-R 15.3 TB, hardware RAID), 2 × 10 GbE + Mellanox ConnectX-5 25 GbE
-- **Storage node (E4 RF470)** — 60-bay 4U chassis, 2 × Intel Xeon Silver 4309Y (16 cores / 32 threads), 128 GB DDR4-3200 ECC RAM, **576 TB raw** (32 × 18 TB SAS, RAID 6), NVMe backplane, 2 × 10 GbE + Mellanox ConnectX-5 25 GbE
+- **GPU computing node** — 2 × Intel Xeon Gold 6342 (48 cores / 96 threads), 1 TB DDR4-3200 ECC RAM, NVIDIA A100 80 GB Tensor Core GPU, ~92 TB SAS SSD (6 × 15.3 TB, hardware RAID), 2 × 10 GbE + dual-port 25 GbE
+- **Storage node** — 60-bay 4U chassis, 2 × Intel Xeon Silver 4309Y (16 cores / 32 threads), 128 GB DDR4-3200 ECC RAM, **576 TB raw** (32 × 18 TB SAS, RAID 6), NVMe backplane, 2 × 10 GbE + dual-port 25 GbE
 
-The GPU node runs **GAIA**, a cloud-native AI stack (Kubernetes with GPU operator, JupyterHub-based multi-user computing, DASK, RAPIDS, TensorFlow, PyTorch) supporting machine-learning workflows for digital soil mapping and geospatial modelling.
+The GPU node runs a **cloud-native AI stack** (Kubernetes with GPU operator, JupyterHub-based multi-user computing, DASK, RAPIDS, TensorFlow, PyTorch) supporting machine-learning workflows for digital soil mapping and geospatial modelling.
 
 ### Shared infrastructure
 
